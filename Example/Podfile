@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SRENetworkingManager_Example' do
+  pod 'SRENetworkingManager', :path => '../'
+
+  target 'SRENetworkingManager_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
