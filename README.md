@@ -22,8 +22,10 @@ pod "SRENetworkingManager"
 
 ## Author
 
-Shady Gabal, shady@nyu.edu
+Shady Gabal, shady@shadygabal.com
 
 ## License
 
 SRENetworkingManager is available under the MIT license. See the LICENSE file for more info.
+=======
+# SRENetworkingManager
